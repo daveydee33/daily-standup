@@ -6,9 +6,7 @@
   "dependencies": {
     "inquirer": "^7.0.0"
   },
-  "devDependencies": {
-    "nodemon": "^1.19.4"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "node dsItem.js",
     "dev": "nodemon dsItem.js"
