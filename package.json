@@ -1,0 +1,18 @@
+{
+  "name": "daily-standup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dsItem.js",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "start": "node dsItem.js",
+    "dev": "nodemon dsItem.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
