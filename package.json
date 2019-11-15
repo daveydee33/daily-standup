@@ -4,12 +4,14 @@
   "description": "",
   "main": "dsItem.js",
   "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "chrome-cookies-secure": "^1.2.0",
     "inquirer": "^7.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node dsItem.js",
-    "dev": "nodemon dsItem.js"
+    "start": "node dsItem.js"
   },
   "author": "",
   "license": "ISC"
