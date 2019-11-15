@@ -4,8 +4,8 @@ Node command line utility to put our daily standup task information and status i
 
 # Setup
 
-- You need to have a successful login to the Jira page from Chrome first.
-- Set the `URL_PREFIX` value in the `dsItem.js` script first. This is the Jira URL - eg: `"https://pm.axa-asia.com/browse/"`
+- You need to have a successful login to the Jira app from Chrome.  This script will use that authentication cookie.
+- Set the `URL_PREFIX` value in the `dsItem.js` to the domain name for Jira.  Eg: `"https://pm.axa-asia.com/browse/"`
 
 # Usage
 
